@@ -1,2 +1,5 @@
-# UnityShaderLab-Yrotate
-css y-rotate like animation in unity shader
+
+# abaout
+シェーダーの練習がしたかったのと、意外とやってる人いなさそうだな..と思ったのでタイトル通りの内容をやってみました。  
+下記のqiitaの記事のリポジトリになります。
+<https://qiita.com/you214/items/858c1d1c2bb992235bc9>
